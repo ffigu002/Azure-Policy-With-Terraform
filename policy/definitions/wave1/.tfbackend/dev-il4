@@ -1,0 +1,8 @@
+#Fill out values if using remote backend
+resource_group_name  = ""
+storage_account_name = ""
+container_name       = ""
+key                  = ""
+environment          = "usgovernment"
+subscription_id      = ""
+tenant_id            = ""
